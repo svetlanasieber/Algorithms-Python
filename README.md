@@ -1,5 +1,6 @@
 # Software University (softuni.bg) - Algorithms with Python
-![185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487](https://github.com/svetlanasieber/Algorithms-Python/assets/135451084/141d8a13-7ad6-4227-8b1e-6cd4e40428dc)
+[Uploading File_Logo_Software_University_(SoftUni)_-_blue.html…]()
+
 
 # Recursion
 # Exercise: Recursion
