@@ -1,4 +1,4 @@
-# first decision:
+# 1 decision:
 
 nums = [int(x) for x in input().split()]
 
@@ -18,7 +18,7 @@ print(*nums, sep=" ")
 
 
 
-# second decision:
+# 2 decision:
 
 nums = [int(x) for x in input().split()]
 for i in range(len(nums)):
