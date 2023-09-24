@@ -1,4 +1,4 @@
-# https://judge.softuni.org/Contests/Practice/Index/3474#0
+
 
 def get_graph_dependencies(graph):
     result = {}
