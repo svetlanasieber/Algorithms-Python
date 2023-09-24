@@ -1,4 +1,3 @@
-# https://judge.softuni.org/Contests/Practice/Index/3474#2
 
 from queue import PriorityQueue
 
