@@ -1,6 +1,6 @@
 from collections import deque
 
-# LONGEST COMMON SUBSEQUENCE PROBLEM
+
 first = [int(x) for x in input().split()]
 second = [int(x) for x in input().split()]
 
