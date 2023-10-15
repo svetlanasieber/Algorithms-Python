@@ -14,5 +14,4 @@
 # Exercise: Minimum spanning tree and Shortest path in Graph
 # Dynamic Programming
 # Exercise: Dynamic Programming
-# Exam Preparation 
-# Regular Exam
+
